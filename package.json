@@ -1,0 +1,13 @@
+{
+  "name": "sogou-wechat-proto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MofeLee <mofe@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "http-proxy-agent": "^2.1.0",
+    "lodash": "^4.17.5",
+    "node-fetch": "^2.1.2"
+  }
+}
